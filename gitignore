@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# Outputs
+*.log
+shap_importance.png
+xai_report.pdf
+xai_report.md
+
+# OS
+.DS_Store
+Thumbs.db
